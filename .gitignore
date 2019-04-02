@@ -1,2 +1,4 @@
 dist/bundle.js
 test/bundle.test.js
+dev/*
+production/*
