@@ -1,3 +1,4 @@
+import "../css/styles.css";
 import markdownPreviewer from "./markdownPreviewer";
 
 window.onload = function() {
