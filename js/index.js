@@ -1,3 +1,5 @@
+import "tachyons";
+
 import "../css/styles.css";
 import markdownPreviewer from "./markdownPreviewer";
 
