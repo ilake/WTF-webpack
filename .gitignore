@@ -1,4 +1,6 @@
 dist/bundle.js
 test/bundle.test.js
+test/index.html
 dev/*
 production/*
+yarn-error.log

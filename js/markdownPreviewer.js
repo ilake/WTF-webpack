@@ -7,6 +7,7 @@ var attachPreviewer = function($document,sourceId,previewId) {
 
     preview.innerHTML = markdown.toHTML(text);
     event.preventDefault();
+    // throw "la";
   };
 }
 
